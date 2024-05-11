@@ -12,7 +12,8 @@
 ### 2. SQL Files: Find corresponding SQL queries for each request within the provided files. These queries are designed to extract and manipulate data to answer the specific questions.
 
 # Skills Developed:
-### 1. SQL Mastery: Learn how to write effective SQL queries using techniques like CTEs, ranking, joins, date functions, subqueries, and numeric functions.
+### 1. SQL Mastery: Learn how to write effective SQL queries using techniques like CTEs, ranking, joins, date functions, subqueries, and 
+numeric functions.
 ### 2. Data Manipulation: Explore data extraction and transformation techniques.
 ### 3. Data Analysis Fundamentals: Gain experience in data analysis and interpretation.
 ### 4. Data Storytelling: Understand how to generate clear and concise reports.
